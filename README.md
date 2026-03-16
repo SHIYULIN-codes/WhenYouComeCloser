@@ -31,3 +31,6 @@ Tools: TouchDesigner, MediaPipe
 
 Theoretical references:
 Edward T. Hall — The Hidden Dimension (1966), a theory on social distance (proxemics).
+
+## Link
+Interactive demonstration video:https://youtu.be/vR_2toA7Pxg
